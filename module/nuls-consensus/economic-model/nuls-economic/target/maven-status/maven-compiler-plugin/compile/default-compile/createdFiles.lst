@@ -1,0 +1,9 @@
+io/nuls/economic/nuls/model/bo/DepositInfo.class
+io/nuls/economic/nuls/model/bo/InflationInfo.class
+io/nuls/economic/nuls/constant/ParamConstant.class
+io/nuls/economic/nuls/model/bo/ConsensusConfigInfo.class
+io/nuls/economic/nuls/util/manager/EconomicManager.class
+io/nuls/economic/nuls/constant/NulsEconomicConstant.class
+io/nuls/economic/nuls/model/bo/RoundInfo.class
+io/nuls/economic/nuls/model/bo/AgentInfo.class
+io/nuls/economic/nuls/service/EconomicServiceImpl.class
